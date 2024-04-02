@@ -1,0 +1,129 @@
+Code,Definition
+( R ) LA,ADMIN. Review- Legal action
+8A,CD Final Notice Letter
+ATSS1,Attempting to service summon 1
+ATSS2,Attempting to service summon 2
+ATSS3,Attempting to service summon 3
+BACK TO MCSC,Back To MCSC
+B-S,Board And Secure
+B-S-NOTIFIED,Board And Secure Notified Contractor
+BW,Bench warrant issued
+CB-S,Close Board and Secure
+CB-SO,Close Board and Secure by Owner
+CCINO,Change of controlling inspector
+CD,File assigned to condemnation
+CDA,Demolished by ASP
+CDC,Demolished by Condemnation
+CDFM8,REC. Owner Demolish - FORM 8
+CDNO,Condemnation Notice
+CDO,"Closed, Demolished by Owner"
+CDRCK,CD Recheck - to see if structures still qualifies
+CNOH,Complaint - No one home
+CO,"Closed, Other"
+CODE-INSP,Assign to Code Enforcement Inspector
+CR,"Closed, Rehab"
+CTCNT,Court case continued
+CTCNT2,Court case continued 2
+CTCNT3,Court case continued 3
+CTCNT4,Court case continued 4
+CTCNT5,Court case continued 5
+CTIME,Conference time entry(Field)
+CTINS,Inspection prior to court
+CVOAR,COMP. V.O. - Auto removed
+CVOAT,COMP. V.O. Auto tow issued
+CVOBD,COMP. V.O. BLDG. Demolished
+CVOBR,COMP. V.O. BLDG. Repaired
+CVOID,Closed Void
+CVOM,COMP. V.O. - Miscellaneous
+CVOYC,COMP. V.O. - Yard cleaned
+DEMO-ASSIGNED,Assigned to demolition Contractor to be demolished
+DISM,Case dismissed         Need further discussion
+DMV,Demolition verified
+DNO,Do not occupy - FORM 15
+FFM11,Comply or Legal action - FORM 11
+FINE,Fine assessed            Need further discussion
+FM12,Not complying - FORM 12 and 12A
+FM14,Legal Action - 15 DAYS - FORM 14
+FM-7,Hearing missed - FORM 7
+HD-CODE,Hearing date set for Code
+HH,Hearing held - Personal visit
+HHF,Hearing held in field
+HHFM7,Hearing - result of FORM 7
+HHL,Hearing held by letter
+HHT,Hearing held by telephone
+ID2,2nd Intent to demolish letter
+INSUF,Insufficient information
+JA,"Justified, Active already file"
+JAR,"Justified, Active already revised"
+JT,Justified transfer
+JV,Justified verbal
+JW-DM,"Justified, write-up demolition"
+JW-RH,"Justified, write-up - Rehab"
+LD,REFERRAL COMPLAINT
+LEGAL-HOLD,Legal Hold       Set to six months follow-up
+MISNO,Miscellaneous
+MLGW,MLGW CUT OFF NOTICE
+MLGW-COMP,MLGW Disconnects Completed
+NJ,Case not justified
+NOH,No one home
+NPA-ACTIVE,Keep the file open in the system Keeping the status NPA
+NPA-CD,Property referred by the condemnation department to NPA removing the status CD and putting the status NPA
+NPA-DISMISSED,NPA Dismissed
+NPA-REFERRAL,Keep the file open in the system Keeping the status NPA
+NPA-RT-CD,NPA Return to CD
+NPASC,Inspection did not pass - Close    ?? Rename ??
+NPASS,Inspection did not pass
+NPF11,No progress - FORM 11
+NPF11-1,
+NPF11-2,
+NPF11-3,
+NPF11-4,
+NPF11-COMP,No progress Form 11 Complete
+NPL,No progress - Letter
+NPM,No progress - Monitor
+NPP,No progress - Personal visit
+NPRAA,No progress - REC. A.D. Action
+NPRCD,No progress - REC. Condemnation
+NPRLA,No progress - REC. A.D. Legal action
+NPT,No progress - Telephone
+OCC,Order of condemnation letter
+OTHER,Please see Resolution Summary
+PS,CITATION ISSUED TO PROCESS SERVER
+RCD,ADMIN. Review condemn
+RCD - WS,"ADMIN. Review, Condemn ASP - Send waiver"
+RCONT,"ADMIN. Review, Continue"
+RCTAC,"ADMIN. Review, Contact"
+RMONT,ADMIN. Review monitor
+RTA,Return to active
+RV,Revised
+RVAC,ADMIN. Review vacate
+RVSO1,Revise Start Over - 1  (JW-RH)
+RVSO2,Revise Start Over - 2  (JW-DM)
+SC,Condemnation show cause hearing letter
+Shelby,Shelby County Owned Property. Please contact the Shelby County Land Bank at 901-222-2575 for further information.
+SO,Start over
+Submit-NPA,Referred to Patrick Dandridge's office
+SUMM,Summons issued
+TAXLTR,Tax letter
+TS,Title search requested (CD/INSPECTOR)
+TS-COMPLETE,Title Search Completed
+UC,Uncooperative
+VNR,Vacate notice rescinded
+VOAR,V.O. to remove auto
+VOB,V.O. for accessory BLDG.
+VOI,Vacated - Own initiative
+VOM,V.O. for miscellaneous
+VONP,No progress on V.O.
+VONP2,No Progress 2 on VO
+VOWP,Work progress on V.O.
+VOWP2,Work progress 2 on VO
+VOWP3,Work progress 3 on VO
+VOWP4,Work progress 4 on VO
+VOWP5,Work progress 5 on VO
+VOYC,V.O. Yard/Vehicle
+VP,Vacate notice posted
+WPF11,Work Progress - FORM 11
+WPO,Work progress - Observations
+WPP,Work progress - Personal visit
+WPT,Work progress - Telephone
+WS,Waiver Sent
